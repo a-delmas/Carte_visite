@@ -1,0 +1,43 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.card {
+    width: 450px;
+    margin: auto;
+    border: 3px solid blue;
+}
+
+h1, h2, h3, a, p {
+    display: inline-block;
+}
+
+img {
+    float: right; 
+    margin-right: 1em;
+    margin-top: 1em;
+}
+
+.card-header, .card-content, .card-footer {
+    padding-left: 1em;
+}
+
+h2 {
+    color: grey;
+}
+
+h3 {
+    color: lightgrey;
+    font-size: 0.8em;
+}
+.card-footer {
+    background-color: grey;
+}
+
+p {
+    text-align: right;
+}
+
+a, p {
+    width: 48%;
+}

@@ -1,0 +1,42 @@
+header {
+    width: 500px;
+}
+footer {
+    background-color: lightgray;
+    width: 500px;
+    vertical-align: center;
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+#picture {
+    height: 50px;
+    width: 75px;
+    float: right;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: slategray;
+    display: inline-block;
+}
+h3 {
+    font-size: 1em;
+    font-weight: bold;
+    color: grey;
+    display: inline-block;
+}
+a {
+    color: blue;
+    display: inline-block;
+    font-size: 1em;
+    text-align: left;
+    width: 48%;
+}
+h5 {
+    text-align: right;
+    display: inline-block;
+    font-size: 1em;
+    width: 48%;
+}
